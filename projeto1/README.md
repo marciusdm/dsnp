@@ -7,3 +7,4 @@
 Neste projeto, foi feita uma análise superficial a respeito das acomodações oferecidas pelo portal Airbnb na cidade de Barecelona, utilizando-se para isso dados obtidos no portal
   <a href="http://insideairbnb.com/get-the-data/" target="_blank">Inside Airbnb</a>.
   
+  * Ver <a href="https://medium.com/@marciusdellano/uma-breve-análise-dos-dados-do-airbnb-para-a-cidade-de-barcelona-cb223d9191b6" target="_blank">artigo</a> no Medium
