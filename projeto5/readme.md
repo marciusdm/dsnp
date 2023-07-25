@@ -3,8 +3,9 @@
 <div align="center">
 <img src="https://github.com/marciusdm/dsnp/blob/main/projeto5/BannerProjeto5.jpg?raw=true" width="600"/>
 </div>
-Em breve
+Projeto do cursoo Data Science na Prática em que são utilizados modelos de machine learming para tentar prever os clientes de uma empresa de telecomunicações que irão deixá-la
 
+Clique [aqui](https://medium.com/@marciusdellano/churn-prediction-para-uma-empresa-de-telecomunicações-c4d5841baa95) para ler artigo na plataforma Medium.
 <hr>
 Foto de <a href="https://unsplash.com/@redaquamedia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Denny Müller</a> na <a href="https://unsplash.com/pt-br/s/fotografias/telecommunication?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
