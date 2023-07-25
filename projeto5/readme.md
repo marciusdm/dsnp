@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://github.com/marciusdm/dsnp/blob/main/projeto5/BannerProjeto5.jpg?raw=true" width="600"/>
 </div>
-Projeto do cursoo Data Science na Prática em que são utilizados modelos de machine learming para tentar prever os clientes de uma empresa de telecomunicações que irão deixá-la
+Projeto do cursoo Data Science na Prática em que são utilizados modelos de machine learming para tentar prever os clientes de uma empresa de telecomunicações que irão deixá-la.
 
 Clique [aqui](https://medium.com/@marciusdellano/churn-prediction-para-uma-empresa-de-telecomunicações-c4d5841baa95) para ler artigo na plataforma Medium.
 <hr>
