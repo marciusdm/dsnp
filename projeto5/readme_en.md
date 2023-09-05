@@ -5,6 +5,6 @@
 </div>
 A data science project which uses several machine learning models to predict customer who'll leave a telecom company
 
-Click  [here](https://medium.com/@marciusdellano/churn-prediction-para-uma-empresa-de-telecomunicações-c4d5841baa95) to read full article on Medium
+Click  [here](https://medium.com/@marciusdellano/churn-prediction-for-a-telecom-company-3e3ee68c7e96) to read full article on Medium
 <hr>
 Picture from <a href="https://unsplash.com/@redaquamedia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Denny Müller</a> na <a href="https://unsplash.com/pt-br/s/fotografias/telecommunication?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
