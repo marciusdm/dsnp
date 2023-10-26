@@ -7,5 +7,6 @@ Notebooks dos projetos do curso Data Science na Prática
 * [Projeto5](https://github.com/marciusdm/dsnp/tree/main/projeto5): Churn prediction para uma empresa de telecomunicações
 * [Projeto6.1](https://github.com/marciusdm/dsnp/tree/main/projeto6_1): Prevendo custos com seguro de saúde
 * [Projeto6.2](https://github.com/marciusdm/dsnp/tree/main/projeto6_2): Prevendo a saúde de fetos com machine learning
+* [Projeto6.3](https://github.com/marciusdm/dsnp/tree/main/projeto6_3): Séries temporais - previsão de demanda
 
 * [Meu portfolio](https://github.com/marciusdm/portfolio)
