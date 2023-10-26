@@ -3,4 +3,5 @@
 <div align="center">
   <img src="https://github.com/marciusdm/dsnp/blob/main/assets/projeto6_3/despejando-vinho-tinto-no-copo.jpg?raw=true">
 </div>
-Este é um projeto de previsão de demanda com séries temporais
+Este é um projeto de previsão de demanda com séries temporais para previsão de vendas de uma loja de vinhos.  
+Clique [aqui](https://medium.com/@marciusdellano/previs%C3%A3o-de-demanda-utilizando-s%C3%A9ries-temporais-19a776f172d2) para ler artigo sobre este projeto.
